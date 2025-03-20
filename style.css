@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: sans-serif;
+}
+
+.container{
+display: flex ;
+margin-top: 150px;
+margin-left: 80px;
+margin-right: 40px;
+gap: 80px;
+
+}
+
+img{
+    width: 500px;
+    height: 500px;
+    border-radius: 20px;
+
+}
+.texto{
+    margin-top: 40px;
+    gap: 80px;
+}
